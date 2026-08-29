@@ -13,7 +13,7 @@ import Footer from './components/Footer';
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Mayukha Creations",
+  "name": "Mayukha Curations",
   "image": "https://images.unsplash.com/photo-1519741497674-611481863552",
   "telephone": "+919550163099",
   "url": "https://saiashwinvasireddy.github.io/mayukhacurations/",
@@ -35,7 +35,7 @@ export default function App() {
     <HelmetProvider>
       <div className="min-h-screen bg-cream text-charcoal flex flex-col font-sans">
         <Helmet>
-          <title>Mayukha Creations | Bespoke Floral & Event Styling</title>
+          <title>Mayukha Curations | Bespoke Floral & Event Styling</title>
           <meta name="description" content="Elevating weddings, intimate ceremonies, half-saree functions, birthdays, and celebrations across Hyderabad, Telangana, and Andhra Pradesh." />
           <script type="application/ld+json">
             {JSON.stringify(jsonLd)}

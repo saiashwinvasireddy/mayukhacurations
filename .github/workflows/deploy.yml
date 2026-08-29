@@ -1,4 +1,4 @@
-name: Deploy Mayukha Creations Static Site
+name: Deploy Mayukha Curations Static Site
 
 on:
   push:

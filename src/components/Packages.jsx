@@ -31,7 +31,7 @@ export default function Packages() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-stretch">
           {packagesData.map((pkg, idx) => {
             const encodedMsg = encodeURIComponent(
-              `Hi Mayukha Creations, I'm interested in inquiring about "${pkg.name}" for an upcoming ceremony. Please provide pricing and availability.`
+              `Hi Mayukha Curations, I'm interested in inquiring about "${pkg.name}" for an upcoming ceremony. Please provide pricing and availability.`
             );
 
             return (

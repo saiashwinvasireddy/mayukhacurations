@@ -23,7 +23,7 @@ export default function Footer() {
                 M
               </div>
               <span className="font-serif text-2xl font-bold tracking-tight text-cream">
-                Mayukha Creations
+                Mayukha Curations
               </span>
             </div>
             <p className="text-xs sm:text-sm text-cream/70 font-sans leading-relaxed max-w-sm">
@@ -82,7 +82,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-cream/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-cream/60">
-          <p>© {new Date().getFullYear()} Mayukha Creations. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Mayukha Curations. All rights reserved.</p>
           <p className="flex items-center gap-1">
             <span>Handcrafted with</span>
             <Heart className="w-3.5 h-3.5 text-blush inline fill-current" />

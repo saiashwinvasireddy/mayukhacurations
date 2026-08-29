@@ -22,7 +22,7 @@ export default function LightboxModal({ item, onClose }) {
   if (!item) return null;
 
   const whatsappMessage = encodeURIComponent(
-    `Hi Mayukha Creations, I'm interested in getting details and a custom quote for decor similar to "${item.title}" (${item.category}).`
+    `Hi Mayukha Curations, I'm interested in getting details and a custom quote for decor similar to "${item.title}" (${item.category}).`
   );
 
   return (
