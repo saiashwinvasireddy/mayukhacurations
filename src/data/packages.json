@@ -1,0 +1,50 @@
+[
+  {
+    "id": "intimate-celebration",
+    "name": "The Intimate Elegance",
+    "tagline": "Ideal for Birthdays, Half-Saree, Cradle Ceremonies & Intimate Gatherings",
+    "startingPrice": "Custom Quote",
+    "isPopular": false,
+    "features": [
+      "Custom Themed Backdrop (8ft x 8ft)",
+      "Premium Artificial & Fresh Floral Accents",
+      "Welcome Signboard with Floral Garland",
+      "Ambient Mood Lighting & Warm Spotlights",
+      "Cake Table / Seating Décor Staging",
+      "On-site Setup and Tear-down Included"
+    ],
+    "ctaText": "Inquire for Intimate Décor"
+  },
+  {
+    "id": "festive-traditions",
+    "name": "The Signature Festive",
+    "tagline": "Curated for Haldi, Mehendi, Pellikuthuru & Sangeet Evenings",
+    "startingPrice": "Custom Quote",
+    "isPopular": true,
+    "features": [
+      "Traditional Marigold / Exotic Floral Arch & Stage Staging",
+      "Customized Seating Arrangement (Jhula / Diwan / Urli Setup)",
+      "Curated Photo-Booth / Selfie Corner with Brand Props",
+      "Pathway / Aisle Floral Tassel Styling",
+      "Dynamic Warm Uplighting & Par Lights",
+      "Dedicated On-site Décor Supervisor"
+    ],
+    "ctaText": "Inquire for Festive Décor"
+  },
+  {
+    "id": "grand-bespoke-wedding",
+    "name": "The Royal Bespoke",
+    "tagline": "Full-Scale Architectural Styling for Weddings & Grand Receptions",
+    "startingPrice": "Custom Quote",
+    "isPopular": false,
+    "features": [
+      "Grand Mandap / Stage Architectural Installation (Up to 24ft+)",
+      "Cascading Fresh Floral Ceilings & Overhead Chandeliers",
+      "VIP Entrance Tunnel with Custom Structures & Draping",
+      "Designer Aisle Runner with Floral Pillars & Ambient Lanterns",
+      "Complete Venue Mood Lighting Synchronization",
+      "End-to-End Conceptualization & 3D Visualization Support"
+    ],
+    "ctaText": "Book Bespoke Consultation"
+  }
+]

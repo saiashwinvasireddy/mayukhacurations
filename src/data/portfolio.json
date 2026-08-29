@@ -1,0 +1,74 @@
+[
+  {
+    "id": "item-1",
+    "title": "Royal Velvet & Jasmine Mandap",
+    "category": "Weddings & Mandaps",
+    "location": "Jubilee Hills, Hyderabad",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+    "description": "Grand wedding mandap featuring cascading fresh jasmine, red roses, and hand-carved wooden pillars."
+  },
+  {
+    "id": "item-2",
+    "title": "Traditional Marigold & Brass Haldi Setup",
+    "category": "Haldi & Mehendi",
+    "location": "Banjara Hills, Hyderabad",
+    "image": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=80",
+    "description": "Sunlit patio floral styling with vibrant marigold tassels, antique brass urlis, and custom seating."
+  },
+  {
+    "id": "item-3",
+    "title": "Pastel Bloom Half-Saree Ceremony",
+    "category": "Birthdays & Half-Saree",
+    "location": "Gachibowli, Hyderabad",
+    "image": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?auto=format&fit=crop&w=1200&q=80",
+    "description": "Enchanting blush rose and lotus theme backdrop designed for a classic Half-Saree celebration."
+  },
+  {
+    "id": "item-4",
+    "title": "Celestial Floral Cradle Installation",
+    "category": "Baby Shower / Cradle",
+    "location": "Financial District, Hyderabad",
+    "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=80",
+    "description": "Soft ivory drape backdrop adorned with cascading white orchids and baby's breath for a cradle function."
+  },
+  {
+    "id": "item-5",
+    "title": "Botanical Ceiling & Chandelier Canopy",
+    "category": "Floral & Backdrops",
+    "location": "Madhapur, Hyderabad",
+    "image": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=1200&q=80",
+    "description": "Overhead fresh greenery ceiling with warm crystal chandeliers and romantic warm lighting."
+  },
+  {
+    "id": "item-6",
+    "title": "Sangeet Night Neon & Tropic Stage",
+    "category": "Haldi & Mehendi",
+    "location": "Shamshabad, Hyderabad",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
+    "description": "Contemporary night event layout combining golden lattice backdrop frames with tropical floral arrangements."
+  },
+  {
+    "id": "item-7",
+    "title": "Intimate Terrace Pellikuthuru Setup",
+    "category": "Weddings & Mandaps",
+    "location": "Secunderabad",
+    "image": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=1200&q=80",
+    "description": "Bespoke courtyard transformation with handpicked rajnigandha strings and vintage diwan seating."
+  },
+  {
+    "id": "item-8",
+    "title": "Enchanted Garden 1st Birthday Theme",
+    "category": "Birthdays & Half-Saree",
+    "location": "Kondapur, Hyderabad",
+    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1200&q=80",
+    "description": "Whimsical pastel balloon and fresh bloom photo zone featuring personalized acrylic name lettering."
+  },
+  {
+    "id": "item-9",
+    "title": "Lotus & Banana Leaf Traditional Backdrop",
+    "category": "Floral & Backdrops",
+    "location": "Vijayawada, AP",
+    "image": "https://images.unsplash.com/photo-1567684014761-b65e2e59b9eb?auto=format&fit=crop&w=1200&q=80",
+    "description": "Authentic South Indian floral heritage styling with fresh lotus blooms, brass lamps, and banana leaf archways."
+  }
+]

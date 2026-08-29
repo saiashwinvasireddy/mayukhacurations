@@ -1,0 +1,29 @@
+[
+  {
+    "id": "rev-1",
+    "clientName": "Ananya & Vikram R.",
+    "eventType": "Pellikuthuru & Sangeet",
+    "location": "Jubilee Hills, Hyderabad",
+    "rating": 5,
+    "review": "Mayukha Creations turned our home courtyard into a magical traditional wonderland! The marigold work and fresh jasmine aroma were praised by every single guest. Truly stress-free execution.",
+    "date": "Recent Event"
+  },
+  {
+    "id": "rev-2",
+    "clientName": "Srikanth & Swathi K.",
+    "eventType": "Half-Saree Ceremony",
+    "location": "Gachibowli, Hyderabad",
+    "rating": 5,
+    "review": "The pastel rose and lotus backdrop was beyond beautiful! The team was punctual, attentive to every detail, and handled post-event teardown without any disruption.",
+    "date": "Recent Event"
+  },
+  {
+    "id": "rev-3",
+    "clientName": "Priyanka M.",
+    "eventType": "Baby Shower / Cradle Function",
+    "location": "Financial District",
+    "rating": 5,
+    "review": "Extremely tasteful floral architecture. They understood our theme perfectly and brought our dream cradle decor to life within our budget. Highly recommended!",
+    "date": "Recent Event"
+  }
+]
