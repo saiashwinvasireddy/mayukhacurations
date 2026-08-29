@@ -54,7 +54,7 @@ export default function Hero() {
             {/* Dual CTAs */}
             <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4 mb-10">
               <a
-                href="https://wa.me/919550163099?text=Hi%20Mayukha%20Creations%2C%20I'm%20interested%20in%20discussing%20decor%20for%20an%20upcoming%20event."
+                href="https://wa.me/919550163099?text=Hi%20Mayukha%20Curations%2C%20I'm%20interested%20in%20discussing%20decor%20for%20an%20upcoming%20event."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-sage hover:bg-sage-dark text-white px-8 py-4 rounded-full font-medium text-base shadow-md hover:shadow-lg transition-all duration-300 transform hover:-translate-y-0.5"
@@ -98,7 +98,7 @@ export default function Hero() {
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-white">
                 <img
                   src="https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1000&q=80"
-                  alt="Mayukha Creations Floral Décor Mandap"
+                  alt="Mayukha Curations Floral Décor Mandap"
                   className="w-full h-[420px] sm:h-[480px] object-cover object-center transform hover:scale-105 transition-transform duration-700"
                 />
                 

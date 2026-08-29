@@ -27,7 +27,7 @@ export default function FloatingActions() {
 
       {/* WhatsApp Pulse Floating Button */}
       <a
-        href="https://wa.me/919550163099?text=Hi%20Mayukha%20Creations%2C%20I'm%20interested%20in%20discussing%20decor%20for%20an%20upcoming%20event."
+        href="https://wa.me/919550163099?text=Hi%20Mayukha%20Curations%2C%20I'm%20interested%20in%20discussing%20decor%20for%20an%20upcoming%20event."
         target="_blank"
         rel="noopener noreferrer"
         className="w-14 h-14 rounded-full bg-sage text-white shadow-xl flex items-center justify-center hover:bg-sage-dark hover:scale-105 transition-all duration-300 animate-pulse-subtle group"

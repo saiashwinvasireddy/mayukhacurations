@@ -49,7 +49,7 @@ export default function Navbar() {
             </div>
             <div className="flex flex-col">
               <span className="font-serif text-xl sm:text-2xl font-bold tracking-tight text-charcoal group-hover:text-sage-dark transition-colors">
-                Mayukha Creations
+                Mayukha Curations
               </span>
               <span className="text-[10px] tracking-widest uppercase font-medium text-brass">
                 Bespoke Floral & Event Styling
@@ -84,7 +84,7 @@ export default function Navbar() {
             </a>
 
             <a
-              href="https://wa.me/919550163099?text=Hi%20Mayukha%20Creations%2C%20I'm%20interested%20in%20discussing%20decor%20for%20an%20upcoming%20event."
+              href="https://wa.me/919550163099?text=Hi%20Mayukha%20Curations%2C%20I'm%20interested%20in%20discussing%20decor%20for%20an%20upcoming%20event."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-sage hover:bg-sage-dark text-white px-5 py-2.5 rounded-full text-sm font-medium transition-all duration-300 shadow-sm hover:shadow-md hover:-translate-y-0.5"
@@ -148,7 +148,7 @@ export default function Navbar() {
                   <span>@MayukhaCurations on Instagram</span>
                 </a>
                 <a
-                  href="https://wa.me/919550163099?text=Hi%20Mayukha%20Creations%2C%20I'm%20interested%20in%20discussing%20decor%20for%20an%20upcoming%20event."
+                  href="https://wa.me/919550163099?text=Hi%20Mayukha%20Curations%2C%20I'm%20interested%20in%20discussing%20decor%20for%20an%20upcoming%20event."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2 bg-sage text-white py-3 rounded-full font-medium text-sm shadow-sm"

@@ -38,7 +38,7 @@ export default function ContactSection() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const text = `Hi Mayukha Creations! I would like to inquire about decor services:
+    const text = `Hi Mayukha Curations! I would like to inquire about decor services:
 - Name: ${formData.name}
 - Phone: ${formData.phone}
 - Event Type: ${formData.eventType}
